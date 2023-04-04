@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javase:jar5">
+    <output-path>$PROJECT_DIR$/out/artifacts/javase_jar5</output-path>
+    <root id="archive" name="javase.jar">
+      <element id="module-output" name="javase" />
+    </root>
+  </artifact>
+</component>

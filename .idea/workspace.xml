@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="javase:jar5" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3904366-72c4-44fa-94d5-af071d944399" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javase_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javase_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javase_jar3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javase_jar4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/javase_jar5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BucleDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BucleForAninado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BucleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementDecrement11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathematicOperations17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NombreVaribles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PacticaJavaClass20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SentenciaSwitch25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipoDeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpdateVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NLogCYa1MinzyDJV0R5TnU3jq1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TipoDeDatos" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TipoDeDatos" />
+      <module name="javase" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3904366-72c4-44fa-94d5-af071d944399" name="Changes" comment="" />
+      <created>1679452836343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679452836343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
